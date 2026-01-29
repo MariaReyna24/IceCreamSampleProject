@@ -9,7 +9,8 @@ import SwiftUI
 
 struct GreatView: View {
     var body: some View {
-        Text("Goodbye, World!")
+        Text("Hello, World!")
+        Image(systemName: "plus")
     }
 }
 
